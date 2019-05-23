@@ -1,0 +1,90 @@
+
+yulou1.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/jinbi
+  rotate: false
+  xy: 298, 52
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+image/shuihua1
+  rotate: false
+  xy: 298, 2
+  size: 66, 48
+  orig: 66, 48
+  offset: 0, 0
+  index: -1
+image/shuihua10
+  rotate: false
+  xy: 898, 192
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+image/shuihua3
+  rotate: false
+  xy: 898, 136
+  size: 74, 54
+  orig: 74, 54
+  offset: 0, 0
+  index: -1
+image/shuihua4
+  rotate: true
+  xy: 876, 20
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+image/shuihua5
+  rotate: true
+  xy: 802, 124
+  size: 128, 94
+  orig: 128, 94
+  offset: 0, 0
+  index: -1
+image/shuihua6
+  rotate: true
+  xy: 702, 116
+  size: 136, 98
+  orig: 136, 98
+  offset: 0, 0
+  index: -1
+image/shuihua7
+  rotate: false
+  xy: 740, 16
+  size: 134, 98
+  orig: 134, 98
+  offset: 0, 0
+  index: -1
+image/shuihua8
+  rotate: true
+  xy: 598, 112
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+image/shuihua9
+  rotate: false
+  xy: 598, 8
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+image/yulou
+  rotate: true
+  xy: 500, 55
+  size: 197, 96
+  orig: 197, 96
+  offset: 0, 0
+  index: -1
+image/yulou_1
+  rotate: false
+  xy: 2, 8
+  size: 294, 244
+  orig: 294, 244
+  offset: 0, 0
+  index: -1

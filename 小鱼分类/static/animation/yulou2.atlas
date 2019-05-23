@@ -1,0 +1,69 @@
+
+yulou2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image/guang1
+  rotate: false
+  xy: 2, 252
+  size: 212, 704
+  orig: 212, 704
+  offset: 0, 0
+  index: -1
+image/guang2
+  rotate: false
+  xy: 216, 340
+  size: 212, 616
+  orig: 212, 616
+  offset: 0, 0
+  index: -1
+image/guang3
+  rotate: false
+  xy: 726, 793
+  size: 212, 163
+  orig: 212, 163
+  offset: 0, 0
+  index: -1
+image/guang3-1
+  rotate: true
+  xy: 430, 296
+  size: 212, 149
+  orig: 212, 149
+  offset: 0, 0
+  index: -1
+image/guang4
+  rotate: false
+  xy: 2, 2
+  size: 212, 248
+  orig: 212, 248
+  offset: 0, 0
+  index: -1
+image/guang4-1
+  rotate: false
+  xy: 216, 112
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1
+image/jinbi
+  rotate: false
+  xy: 430, 510
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+image/yulou
+  rotate: false
+  xy: 216, 14
+  size: 197, 96
+  orig: 197, 96
+  offset: 0, 0
+  index: -1
+image/yulou_1
+  rotate: false
+  xy: 430, 712
+  size: 294, 244
+  orig: 294, 244
+  offset: 0, 0
+  index: -1
