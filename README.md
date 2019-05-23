@@ -1,7 +1,8 @@
-# sort-demo-1
+# 小鱼分类游戏
 
 > A Vue.js project
-
+### 在线地址预览
+http://xes-h5-icourse.oss-cn-beijing.aliyuncs.com/test1/zhangxing/fishclassification/index.html#/
 ## Build Setup
 
 ``` bash
@@ -17,9 +18,7 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 
-#下载模板脚手架
-  npm install xes-tem-cli -g
-  xtemcli init <项目名>
+
 
 #  脚手架组件包介绍
   1.xes-start（开始页）(包含所有开始页部分)
